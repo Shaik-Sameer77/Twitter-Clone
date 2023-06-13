@@ -15,7 +15,7 @@ We are going to do this project in React.
 # Dependencies
 <h1>The project utilizes the following dependencies:</h1>
 <h3><li>React: A JavaScript library for building user interfaces.</h3></li>
-<h3><li>Redux: A state management library for managing application state in React.</h3></li>
+<h3><li>Redux-Toolkit: A state management library for managing application state in React.</h3></li>
 <h3><li>Material UI: A popular UI component library for React, providing pre-designed and customizable components.</h3></li>
 
 
@@ -41,7 +41,7 @@ To install and run the application locally, follow these steps:
 <li> Ashlesha Bandgar <a href= "" ></a></li>
 <li> shaik Sameer <a href = "https://github.com/Shaik-Sameer77">https://github.com/Shaik-Sameer77</a></li>
 </ol>
-  <h1>Deployment Link </h1>
+ <h1>Deployment Link <a href="https://ashwinitwitterfinal-m3kc.vercel.app/">https://ashwinitwitterfinal-m3kc.vercel.app/</a> </h1>
   <h1>Acknowledgment</h1>
   We would like to acknowledge the valuable contributions of the open-source community and the various libraries and frameworks that have made the Twitter-clone possible. Their dedication and commitment have been instrumental in developing this powerful project management tool.
 
