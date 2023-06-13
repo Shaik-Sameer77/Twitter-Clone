@@ -19,8 +19,6 @@ We are going to do this project in React.
 <h3><li>Material UI: A popular UI component library for React, providing pre-designed and customizable components.</h3></li>
 
 
-
- All changes made on the Kanban Board are updated in real-time, ensuring that everyone has access to the latest information. This       eliminates confusion, enhances coordination, and keeps the entire team aligned.
  <h1> Tech Stack </h1>
  <ul>
   <li>React JS</li>
@@ -38,10 +36,10 @@ To install and run the application locally, follow these steps:
 </ul>
   <h1>Collaborators</h1>
 <ol>
-<li>Ashwini Kumari<a href="https://github.com/ashwini286"> https://github.com/ashwini286</a></li>
-<li>vaishnavi Chatur<a href="https://github.com/VaishnaviChatur"> https://github.com/VaishnaviChatur</a></li>
-<li>Ashlesha Bandgar<a href= "" ></a></li>
-<li>Sameer shaik<a href = "https://github.com/Shaik-Sameer77">https://github.com/Shaik-Sameer77</a></li>
+<li> Ashwini Kumari <a href="https://github.com/ashwini286"> https://github.com/ashwini286</a></li>
+<li> vaishnavi Chatur <a href="https://github.com/VaishnaviChatur"> https://github.com/VaishnaviChatur</a></li>
+<li> Ashlesha Bandgar <a href= "" ></a></li>
+<li> shaik Sameer <a href = "https://github.com/Shaik-Sameer77">https://github.com/Shaik-Sameer77</a></li>
 </ol>
   <h1>Deployment Link </h1>
   <h1>Acknowledgment</h1>
